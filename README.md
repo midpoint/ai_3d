@@ -511,6 +511,7 @@ sdk.hideDebugInfo();  // 隐藏调试面板
 
 MIT
 ---
-<p align="center">
-    友情链接：<a href="https://linux.do" alt="LINUX DO"><img src="https://shorturl.at/ggSqS" /></a>
-</p>
+
+## 友情链接
+  <a href="https://linux.do" alt="LINUX DO"><img src="https://shorturl.at/ggSqS" /></a>
+

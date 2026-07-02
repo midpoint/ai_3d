@@ -5,6 +5,7 @@
 > 用户只需输入魔珐星云 App ID/Secret 和 LLM API Key，即可拥有专属的 3D 虚拟 AI 助手。
 
 ---
+<img width="1815" height="872" alt="image" src="https://github.com/user-attachments/assets/3f82a0ac-0083-4b03-94e5-ad24dbc48d9f" />
 
 ## 📺 效果演示
 
